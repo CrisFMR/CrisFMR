@@ -1,12 +1,12 @@
-<h1>- 👋 Hola, Soy Cristopher</h1>
+<h1>- 👋👾 Hola, Soy Cristopher</h1>
 <div>
 <p class="fw-bold">● ¿Quién eres?</p>
-<p>Soy un administrador de empresas actualmente estudiante de un curso <br> Full Stack Developer Trainee Java</p>
+<p>Soy un administrador de empresas actualmente estudiante de un curso <br> Full Stack Developer Trainee Java🖥</p>
 </div>
 <hr>
 <div>
 <p class="fw-bold">● ¿De dónde eres?</p>
-<p>Soy de Santiago de Chile</p>
+<p>Soy de Santiago de Chile 🇨🇱</p>
 </div>
 <hr>
 <div>
@@ -16,12 +16,12 @@
 <hr>
 <div>
 <p class="fw-bold">● ¿Cuál es tu formación?</p>
-<p>Actualmente poseo el titulo de tecnico en administración de empresas, <br>un diplomado en programacion web, y estoy cursando un bootcamp <br>como programador fullstack Trainee</p>
+<p>Actualmente poseo el titulo de tecnico en administración de empresas, <br>un diplomado en programacion web, y estoy cursando un bootcamp <br>como programador fullstack Trainee💻</p>
 <div>
 <hr>
 </div>
 <p class="fw-bold">● ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</p>
-<p>Debido a mis cualidad soy una persona que aprende con facilidad, <br>le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy <br>integrando al mundo de la programación mis cualidades fomentan <br>la sinergia de un equipo que busca dinamísmo y compromiso con <br>el proyecto a ejecutar.</p>
+<p>Debido a mis cualidad soy una persona que aprende con facilidad, <br>le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy <br>integrando al mundo de la programación mis cualidades fomentan <br>la sinergia de un equipo que busca dinamísmo y compromiso con <br>el proyecto a ejecutar 👥.</p>
 </div>
 <hr>
 <div>
