@@ -21,11 +21,6 @@
 <hr>
 </div>
 <p class="fw-bold">● ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</p>
-<div>[[(https://img.shields.io/badge/Team%20Work?style=flat
-)](https://img.shields.io/badge/Team%20Work?style=flat
-)](https://img.shields.io/badge/Team%20Work?style=flat
-)
-</div>
 <p>Debido a mis cualidad soy una persona que aprende con facilidad, <br>le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy <br>integrando al mundo de la programación mis cualidades fomentan <br>la sinergia de un equipo que busca dinamísmo y compromiso con <br>el proyecto a ejecutar 👥.</p>
 </div>
 <hr>
