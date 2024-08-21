@@ -1,19 +1,45 @@
-- 👋 Hola, soy Cristopher
-
-● ¿Quién eres? 
-Soy un administrador de empresas actualmente estudiante de un programa programador full stack trainee java
-● ¿De dónde eres?
-Soy de Chile
-● ¿A qué te dedicas? 
-Actualmente trabajo además de programador freelance como consultor y administrador de empresas.
-● ¿Cuál es tu formación? 
-Actualmente poseo el titulo de tecnico en administración de empresas, un diplomado en programacion web, y estoy cursando un bootcamp como programador fullstack Trainee
-● ¿Cuáles son tus experiencias previas? y en caso que no tengas ¿por qué deberían contactarte? 
-Debido a mis cualidad soy una persona que aprende con facilidad, le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy integrando al mundo de la programación mis cualidades fomentan la sinergia de un equipo que busca dinamismo y compromiso con el proyecto a ejecutar.
-● ¿Cómo y a través de qué medios te pueden contactar?
-Si desea contactarme puede hacerlo a través de mi email: christopher.montecinos@live.com
+<!DOCTYPE html>
+<html>
+<head>
+<title>Perfil</title>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+</head>
+<body>
+<main>
+<h1>- 👋 Hola, Soy Cristopher</h1>
+<div>
+<p class="fw-bold">● ¿Quién eres?</p>
+<p>Soy un administrador de empresas actualmente estudiante de un curso <br> Full Stack Developer Trainee Java</p>
+</div>
+<hr>
+<div>
+<p class="fw-bold">● ¿De dónde eres?</p>
+<p>Soy de Santiago de Chile</p>
+</div>
+<hr>
+<div>
+<p class="fw-bold">● ¿A qué te dedicas?</p>
+<p>Actualmente trabajo además de programador freelance como consultor <br>y administrador de empresas.</p>
+</div>
+<hr>
+<div>
+<p class="fw-bold">● ¿Cuál es tu formación?</p>
+<p>Actualmente poseo el titulo de tecnico en administración de empresas, <br>un diplomado en programacion web, y estoy cursando un bootcamp <br>como programador fullstack Trainee</p>
+<div>
+<hr>
+</div>
+<p class="fw-bold">● ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</p>
+<p>Debido a mis cualidad soy una persona que aprende con facilidad, <br>le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy <br>integrando al mundo de la programación mis cualidades fomentan <br>la sinergia de un equipo que busca dinamísmo y compromiso con <br>el proyecto a ejecutar.</p>
+</div>
+<hr>
+<div>
+<p class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</p>
+<p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
 
 <!---
 CrisFMR/CrisFMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
