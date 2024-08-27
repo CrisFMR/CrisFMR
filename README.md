@@ -5,7 +5,7 @@
     <h1><img decoding="async" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="50"/> 👋👾 Hola, Soy Cristopher</h1>
   </div>
   <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&weight=800&pause=1000&color=24F700&width=435&lines=Hi+%F0%9F%91%8B+everybody!;Welcome+to+my+GITHUB+%F0%9F%91%BE;I'm+Cristopher%F0%9F%91%8D" alt="Typing SVG" /></a> 
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&pause=1000&color=24F700&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+everybody!;Welcome+to+my+GITHUB+%F0%9F%91%BE;I'm+Cristopher%F0%9F%91%8D" alt="Typing SVG" /></a> 
   </div>
   <div>
 	<p class="fw-bold">● ¿Quién eres?</p>
