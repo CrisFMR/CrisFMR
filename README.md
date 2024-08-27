@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  [![Sin-t-tulo-1.jpg](https://i.postimg.cc/6qyVsmMV/Sin-t-tulo-1.jpg)](https://postimg.cc/q6H6yjVg)
+  <img decoding="async" src="https://i.postimg.cc/6qyVsmMV/Sin-t-tulo-1.jpg" width="800"/>
 </div>
 <h1>- 👋👾 Hola, Soy Cristopher</h1>
 <div>
