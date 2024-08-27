@@ -37,7 +37,7 @@
   </div>
   <div align="center">
 	<img decoding="async" 	src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="200"/>
-	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
   </div>
 </div>
 
