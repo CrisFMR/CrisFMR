@@ -20,7 +20,7 @@
   <hr>
   <div align="center">
     <h3 class="fw-bold">● ¿A qué te dedicas?</h3>
-    <p>Actualmente trabajo además de programador freelance como consultor <br>y administrador de empresas. 👨‍💻</p>
+    <p>Actualmente trabajo como programador freelance, consultor <br>y administrador de empresas. 👨‍💻</p>
   </div>
   <hr>
   <div align="center">
