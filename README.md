@@ -15,7 +15,7 @@
   <hr>
   <div align="center">
 	<h3 class="fw-bold">● ¿De dónde eres?</h3>
-    <p>Soy de Santiago de Chile. 🌎</p><img scr="https://i.postimg.cc/15JX21Xb/chile.png" width="30" height="30"></img>
+    <p>Soy de Santiago de Chile. 🌎</p><img scr="https://i.postimg.cc/15JX21Xb/chile.png"></img>
   </div>
   <hr>
   <div align="center">
