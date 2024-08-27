@@ -36,6 +36,7 @@
   <div align="center">
     <h3 class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</h3>
     <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
+	  <img src="https://img.shields.io/badge/correo-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=100&label=Gmail&labelColor=white&link=cmontecinosrobles%40gmail.com"/>
   </div>
   <hr>
   <div align="center">
