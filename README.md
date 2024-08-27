@@ -36,7 +36,7 @@
     <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
   </div>
   <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=pie"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
 	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
   </div>
 </div>
