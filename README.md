@@ -44,7 +44,8 @@
 	   <h2 class="fw-bold">Estadísticas</h2>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
 	  <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
+	  <a href="https://www.linkedin.com/in/crismontecinos/">
+	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/></a>
   </div>
 </div>
 
