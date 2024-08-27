@@ -3,7 +3,7 @@
   <img decoding="async" src="https://i.postimg.cc/6qyVsmMV/Sin-t-tulo-1.jpg" width="800"/>
 </div>
   <div align="center">
-    <h1><img decoding="async" src=" https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="50"/> 👋👾 Hola, Soy Cristopher</h1>
+    <h1><img decoding="async" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="50"/> 👋👾 Hola, Soy Cristopher</h1>
   <div>
 	<p class="fw-bold">● ¿Quién eres?</p>
     <p>Soy un administrador de empresas actualmente estudiante de un curso <br> Full Stack Developer Trainee Java. 🖥</p>
@@ -30,8 +30,8 @@
   <hr>
   <div>
     <p class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</p>
-    <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p> 📧
-	  [Correo Electrónico](christopher.montecinos@live.com)
+    <p>Si desea contactarme puede hacerlo a través de mi email: 📧 <br>christopher.montecinos@live.com</p> 
+	  <img decoding="async" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50"/>
   </div>
 </div>
 
