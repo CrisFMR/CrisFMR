@@ -36,7 +36,7 @@
     <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
   </div>
   <div align="center">
-	<img decoding="async" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" width="50"/>CrisFMR GITHUB PROFILE<img decoding="async" 	src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="500"/>
+	<img decoding="async" 	src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="200"/>
   </div>
 </div>
 
