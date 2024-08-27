@@ -30,7 +30,7 @@
   <hr>
   <div>
     <p class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</p>
-    <p>Si desea contactarme puede hacerlo a través de mi email: <img decoding="async" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.google.com)" width="60"/> <br>christopher.montecinos@live.com</p>
+    <p>Si desea contactarme puede hacerlo a través de mi email: <img decoding="async" src="[https://www.google.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" width="60"/> <br>christopher.montecinos@live.com</p>
   </div>
 </div>
 
