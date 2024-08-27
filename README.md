@@ -31,7 +31,6 @@
   <div>
     <p class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</p>
     <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
-    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="60"/>
   </div>
 </div>
 
