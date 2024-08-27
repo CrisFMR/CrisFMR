@@ -9,7 +9,7 @@
   </div>
   <div align="center">
 	<p class="fw-bold">● ¿Quién eres?</p>
-    <p>Soy un administrador de empresas actualmente estudiante de un curso <br> Full Stack Developer Trainee Java. 🖥</p>
+    <p>Soy un administrador de empresas actualmente formandome como <br> Full Stack Developer Trainee Java. 🖥</p>
   </div>
   <hr>
   <div align="center">
