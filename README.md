@@ -10,7 +10,7 @@
   <br>
   <div align="center">
 	<h3 class="fw-bold">● ¿Quién eres?</h3>
-    <p>Soy un administrador de empresas actualmente formandome como <br> Full Stack Developer Trainee Java. 🖥</p>
+    <p>Soy un administrador de empresas actualmente en formación como <br> Full Stack Developer Trainee Java. 🖥</p>
   </div>
   <hr>
   <div align="center">
@@ -25,7 +25,7 @@
   <hr>
   <div align="center">
     <h3 class="fw-bold">● ¿Cuál es tu formación?</h3>
-    <p>Actualmente poseo el titulo de tecnico en administración de empresas, <br>un diplomado en programacion web, y estoy cursando un bootcamp <br>como programador fullstack Trainee. 💻</p>
+    <p>Actualmente poseo el título de técnico en administración de empresas, <br>un diplomado en programación web y terminando de cursando un bootcamp <br>como programador Full Stack.💻</p>
   </div>
   <hr>
   <div align="center">
@@ -37,16 +37,15 @@
     <h3 class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</h3>
     <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
 	  <img src="https://img.shields.io/badge/correo-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=100&label=Gmail&labelColor=white&color=red&link=cmontecinosrobles%40gmail.com"/>
-	<img src="https://img.shields.io/badge/perfil-linkedin?style=for-the-badge&logo=linkedin&logoColor=blue&logoSize=100&label=LinkedIn&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcrismontecinos%2F"/> 
+	  <a href="https://www.linkedin.com/in/crismontecinos/">
+	  <img src="https://img.shields.io/badge/perfil-linkedin?style=for-the-badge&logo=linkedin&logoColor=blue&logoSize=100&label=LinkedIn&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcrismontecinos%2F"/></a>
   </div>
   <hr>
   <div align="center">
-	   <h2 class="fw-bold">Estadísticas</h2>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
+	  <h2 class="fw-bold">Estadísticas</h2>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
 	  <br>
-	  <a href="https://www.linkedin.com/in/crismontecinos/">
-	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/></a>
-  </div>
+	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
 </div>
 
 
