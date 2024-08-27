@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img decoding="async" src="https://i.postimg.cc/6qyVsmMV/Sin-t-tulo-1.jpg" width="800"/>
 </div>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crismontecinos/)
 <h1>- 👋👾 Hola, Soy Cristopher</h1>
 <div>
 <p class="fw-bold">● ¿Quién eres?</p>
