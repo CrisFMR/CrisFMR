@@ -18,24 +18,27 @@
   </div>
   <hr>
   <div align="center">
-    <p class="fw-bold">● ¿A qué te dedicas?</p>
+    <h3 class="fw-bold">● ¿A qué te dedicas?</h3>
     <p>Actualmente trabajo además de programador freelance como consultor <br>y administrador de empresas. 👨‍💻</p>
   </div>
   <hr>
   <div align="center">
-    <p class="fw-bold">● ¿Cuál es tu formación?</p>
+    <h3 class="fw-bold">● ¿Cuál es tu formación?</h3>
     <p>Actualmente poseo el titulo de tecnico en administración de empresas, <br>un diplomado en programacion web, y estoy cursando un bootcamp <br>como programador fullstack Trainee. 💻</p>
   </div>
   <hr>
-  <div align="center"><p class="fw-bold">● ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</p>
+  <div align="center">
+	<h3 class="fw-bold">● ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</h3>
     <p>Debido a mis cualidad soy una persona que aprende con facilidad, <br>le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy <br>integrando al mundo de la programación mis cualidades fomentan <br>la sinergia de un equipo que busca dinamísmo y compromiso con <br>el proyecto a ejecutar. 👥</p>
   </div>
   <hr>
   <div align="center">
-    <p class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</p>
+    <h3 class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</h3>
     <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
   </div>
+  <hr>
   <div align="center">
+	   <h3 class="fw-bold">Estadísticas</h3>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
 	  <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
