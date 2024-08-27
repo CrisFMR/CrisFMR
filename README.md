@@ -39,7 +39,7 @@
   </div>
   <hr>
   <div align="center">
-	   <h3 class="fw-bold">Estadísticas</h3>
+	   <h2 class="fw-bold">Estadísticas</h2>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
 	  <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
