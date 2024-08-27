@@ -37,6 +37,7 @@
     <h3 class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</h3>
     <p>Si desea contactarme puede hacerlo a través de mi email directo o mis RRSS:
 	  <br>
+	    <br>
 	  <a href="mailto:christopher.montecinos@live.com">
 	  <img src="https://img.shields.io/badge/correo-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=100&label=Gmail&labelColor=white&color=red&link=cmontecinosrobles%40gmail.com"/></a>
 	  <a href="https://www.linkedin.com/in/crismontecinos/">
