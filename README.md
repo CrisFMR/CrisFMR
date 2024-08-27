@@ -30,7 +30,8 @@
   <hr>
   <div>
     <p class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</p>
-    <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p>
+    <p>Si desea contactarme puede hacerlo a través de mi email: <br>christopher.montecinos@live.com</p> 📧
+	  [Correo Electrónico](christopher.montecinos@live.com)
   </div>
 </div>
 
