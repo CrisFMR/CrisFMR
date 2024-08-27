@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  [![Sin-t-tulo-1.jpg](https://i.postimg.cc/6qyVsmMV/Sin-t-tulo-1.jpg)](https://postimg.cc/q6H6yjVg)
+</div>
 <h1>- 👋👾 Hola, Soy Cristopher</h1>
 <div>
 <p class="fw-bold">● ¿Quién eres?</p>
