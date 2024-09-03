@@ -44,9 +44,9 @@
 	  <br>
 	    <br>
 	  <a href="mailto:christopher.montecinos@live.com">
-	  <img src="https://img.shields.io/badge/correo-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=100&label=Gmail&labelColor=white&color=red&link=cmontecinosrobles%40gmail.com"/></a>
+	  <img src="https://img.shields.io/badge/correo-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=100&label=Gmail&labelColor=gray&color=red&link=cmontecinosrobles%40gmail.com"/></a>
 	  <a href="https://www.linkedin.com/in/crismontecinos/">
-	  <img src="https://img.shields.io/badge/perfil-linkedin?style=for-the-badge&logo=linkedin&logoColor=blue&logoSize=100&label=LinkedIn&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcrismontecinos%2F"/></a>
+	  <img src="https://img.shields.io/badge/perfil-linkedin?style=for-the-badge&logo=linkedin&logoColor=blue&logoSize=100&label=LinkedIn&labelColor=gray&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcrismontecinos%2F"/></a>
   </div>
   <hr>
   <div align="center">
