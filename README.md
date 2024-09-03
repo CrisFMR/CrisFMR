@@ -47,7 +47,7 @@
   </div>
   <hr>
   <div align="center">
-	  <h2 class="fw-bold">Manejo de Tecnologías</h2>
+	  :wrench:<h2 class="fw-bold">Language-Frameworks-Tools</h2>
 	  <img src="https://skillicons.dev/icons?i=js,html,css,java"/>
 </div>
   <hr>
