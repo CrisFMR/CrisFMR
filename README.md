@@ -47,7 +47,7 @@
   </div>
   <hr>
   <div align="center">
-	  :wrench:<h2 class="fw-bold">Language-Frameworks-Tools</h2>
+	  <h2 class="fw-bold">:hammer: Language-Frameworks-Tools</h2>
 	  <img src="https://skillicons.dev/icons?i=js,html,css,java"/>
 </div>
   <hr>
