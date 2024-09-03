@@ -32,7 +32,7 @@
   <hr>
   <div align="center">
 	<h3 class="fw-bold">:sparkles: ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</h3>
-    <p>Aunque aún no tengo experiencia profesional, he completado varios proyectos académicos y contribuido <br>en proyectos Open Source, utilizando JAVA para desarrollar aplicaciones completas, <br>tanto Front-End como Back-End con Spring Boot, integrando bases de datos SQL y realizando implementaciones en API Rest.
+    <p>Aunque aún no tengo experiencia profesional, he completado varios proyectos académicos <br>y contribuido en proyectos Open Source, utilizando JAVA para desarrollar aplicaciones completas, <br>tanto Front-End como Back-End con Spring Boot, integrando bases de datos SQL y realizando implementaciones en API Rest.
 <br>
 <br>Sumado a estos conocimientos, me caracterizo por ser un profesional proactivo, <br>con capacidad para resolver problemas, trabajar en equipo, <br>adaptabilidad y apasionado por el aprendizaje continuo
  👥</p>
