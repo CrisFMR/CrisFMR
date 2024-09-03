@@ -47,6 +47,14 @@
   </div>
   <hr>
   <div align="center">
+	  <h2 class="fw-bold">Manejo de Tecnologías</h2>
+	  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
+	  <br>
+	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
+</div>
+  <hr>
+  <div align="center">
 	  <h2 class="fw-bold">Estadísticas</h2>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisFMR&layout=compact&show_icons=true&theme=dark"/>
 	  <br>
