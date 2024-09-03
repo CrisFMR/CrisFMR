@@ -10,7 +10,7 @@
   <br>
   <div align="center">
 	<h3 class="fw-bold">:star2: ¿Quién eres?</h3>
-    <p>Soy un administrador de empresas actualmente reinventandome <br> en el mundo digital como Full Stack Developer Trainee Java. 🖥</p>
+    <p>Soy un administrador de empresas actualmente en el mundo digital<br> como Full Stack Developer Trainee Java. 🖥</p>
   </div>
   <hr>
   <div align="center">
