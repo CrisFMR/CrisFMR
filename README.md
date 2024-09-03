@@ -48,7 +48,7 @@
   <hr>
   <div align="center">
 	  <h2 class="fw-bold">:hammer: Language-Frameworks-Tools</h2>
-	  <img src="https://skillicons.dev/icons?i=js,html,css,java"/>
+	  <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,postgres,jquery,nodejs,postman,idea,git,eclipse,bootstrap"/>
 </div>
   <hr>
   <div align="center">
