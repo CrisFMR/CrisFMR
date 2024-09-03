@@ -9,34 +9,36 @@
   </div>
   <br>
   <div align="center">
-	<h3 class="fw-bold">● ¿Quién eres?</h3>
-    <p>Soy un administrador de empresas actualmente reinventandome en el mundo digital <br> como Full Stack Developer Trainee Java. 🖥</p>
+	<h3 class="fw-bold">:star2: ¿Quién eres?</h3>
+    <p>Soy un administrador de empresas actualmente reinventandome <br> en el mundo digital como Full Stack Developer Trainee Java. 🖥</p>
   </div>
   <hr>
   <div align="center">
-	<h3 class="fw-bold">● ¿De dónde eres?</h3>
-    <p>Soy de Santiago de Chile. 🌎</p>
+	<h3 class="fw-bold">🌎 ¿De dónde eres?</h3>
+    <p>Soy de Santiago de Chile.</p>
 	  <a href="https://maps.app.goo.gl/7aaGbdwj5FnQ6D5U6">
 	  <img decoding="async" src="https://i.postimg.cc/15JX21Xb/chile.png" width="50"/></a>
   </div>
   <hr>
   <div align="center">
-    <h3 class="fw-bold">● ¿A qué te dedicas?</h3>
+    <h3 class="fw-bold">:milky_way: ¿A qué te dedicas?</h3>
     <p>Actualmente trabajo como programador freelance, consultor <br>y administrador de empresas. 👨‍💻</p>
   </div>
   <hr>
   <div align="center">
-    <h3 class="fw-bold">● ¿Cuál es tu formación?</h3>
-    <p>Actualmente poseo el título de técnico en administración de empresas, <br>un diplomado en programación web y terminando de cursando un bootcamp <br>como programador Full Stack.💻</p>
+    <h3 class="fw-bold">:mortar_board: ¿Cuál es tu formación?</h3>
+    <p>Actualmente poseo el título de técnico en administración de empresas, <br>un diplomado en programación web y completé un bootcamp <br>como programador Full Stack.💻</p>
   </div>
   <hr>
   <div align="center">
-	<h3 class="fw-bold">● ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</h3>
-    <p>Debido a mis cualidad soy una persona que aprende con facilidad, <br>le gusta trabajar en equipo y ser proactiva. Si bien recién me estoy <br>integrando al mundo de la programación mis cualidades fomentan <br>la sinergia de un equipo que busca dinamísmo y compromiso con <br>el proyecto a ejecutar. 👥</p>
+	<h3 class="fw-bold">:sparkles: ¿Cuáles son tus experiencias previas? y en caso que no tengas <br>¿por qué deberían contactarte?</h3>
+    <p>Aunque aún no tengo experiencia profesional, he completado varios proyectos académicos y contribuido en proyectos Open Source, <br>utilizando JAVA para desarrollar aplicaciones completas, tanto Front-End como Back-End con Spring Boot, <br>integrando bases de datos SQL y realizando implementaciones en API Rest.
+<br>Sumado a estos conocimientos, me caracterizo por ser un profesional proactivo, con capacidad para resolver problemas, <br>trabajar en equipo, adaptabilidad y apasionado por el aprendizaje continuo
+ 👥</p>
   </div>
   <hr>
   <div align="center">
-    <h3 class="fw-bold">● ¿Cómo y a través de qué medios te pueden contactar?</h3>
+    <h3 class="fw-bold">:iphone: :mailbox: ¿Cómo y a través de qué medios te pueden contactar?</h3>
     <p>Si desea contactarme puede hacerlo a través de mi email directo o mis RRSS:
 	  <br>
 	    <br>
