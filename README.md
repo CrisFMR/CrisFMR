@@ -60,7 +60,6 @@
 	  <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=CrisFMR&show_icons=true&theme=dark"/>
 </div>
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/lottie.json"/>
 
 
 <!---
