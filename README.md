@@ -22,12 +22,12 @@
   <hr>
   <div align="center">
     <h3 class="fw-bold">:milky_way: ¿A qué te dedicas?</h3>
-    <p>Actualmente trabajo como programador freelance, consultor <br>y administrador de empresas. 👨‍💻</p>
+    <p>Trabajo como programador freelance, consultor <br>y administrador de empresas. 👨‍💻</p>
   </div>
   <hr>
   <div align="center">
     <h3 class="fw-bold">:mortar_board: ¿Cuál es tu formación?</h3>
-    <p>Actualmente poseo el título de técnico en administración de empresas, <br>un diplomado en programación web y completé un bootcamp <br>como programador Full Stack.💻</p>
+    <p>Poseo el título de técnico en administración de empresas, <br>un diplomado en programación web y completé un bootcamp <br>como programador Full Stack.💻</p>
   </div>
   <hr>
   <div align="center">
